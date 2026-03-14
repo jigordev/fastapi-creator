@@ -1,0 +1,1 @@
+from fastapi_creator.scaffold import create_project
